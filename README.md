@@ -1,5 +1,5 @@
 # trump-quotes
-Generate random Trump quotes and tweet them
+Generate random Donald Trump quotes and tweet them
 
 Built using What Does Trump Think API: https://whatdoestrumpthink.com/api-docs/index.html#introduction
 
